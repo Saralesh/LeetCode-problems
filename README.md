@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Saralesh/LeetCode-problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0200-number-of-islands](https://github.com/Saralesh/LeetCode-problems/tree/master/0200-number-of-islands) |
+| [1036-rotting-oranges](https://github.com/Saralesh/LeetCode-problems/tree/master/1036-rotting-oranges) |
 ## Binary Search
 |  |
 | ------- |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Saralesh/LeetCode-problems/tree/master/0200-number-of-islands) |
+| [1036-rotting-oranges](https://github.com/Saralesh/LeetCode-problems/tree/master/1036-rotting-oranges) |
 ## Union Find
 |  |
 | ------- |
@@ -28,4 +30,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Saralesh/LeetCode-problems/tree/master/0200-number-of-islands) |
+| [1036-rotting-oranges](https://github.com/Saralesh/LeetCode-problems/tree/master/1036-rotting-oranges) |
 <!---LeetCode Topics End-->
