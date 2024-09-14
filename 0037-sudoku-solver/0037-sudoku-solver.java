@@ -36,7 +36,7 @@ class Solution {
                 if(board[i][col] == ch){
                     return false;
                 }
-                if(board[row/3*3+i/3][(col/3)*3+i%3]==ch){
+                if(board[(row/3)*3+i/3][(col/3)*3+i%3]==ch){
                     return false;
                 }
 
