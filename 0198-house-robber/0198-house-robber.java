@@ -7,12 +7,7 @@ class Solution {
         maxarr[0] = a[0];
         maxarr[1] = Math.max(a[0],a[1]);
         for(int i = 2;i < l;i++){
-            if(a[i] + maxarr[i-2] > maxarr[i-1]){
-                maxarr[i] = a[i] +maxarr[i-2];
-            }
-            else {
-                maxarr[i] = maxarr[i-1];
-            }
+            maxarr[i] = Math.max(maxarr[i-1],a[i] + maxarr[i-2]);
         }
         return (maxarr[l -1 ]);
     }
