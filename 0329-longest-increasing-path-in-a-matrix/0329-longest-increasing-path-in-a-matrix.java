@@ -7,7 +7,7 @@ class Solution {
         int[][] dp = new int[row][col];
         for(int i = 0;i < row;i++){
             for(int j = 0;j < col;j++){
-                    dfs(i,j,matrix,dp,matrix[i][j] - 1);
+                    dfs(i,j,matrix,dp,-1);
                     max = Math.max(max,dp[i][j]);
             }
         }
