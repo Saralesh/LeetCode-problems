@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Saralesh/LeetCode-problems/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/Saralesh/LeetCode-problems/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Saralesh/LeetCode-problems/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/Saralesh/LeetCode-problems/tree/master/0052-n-queens-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
