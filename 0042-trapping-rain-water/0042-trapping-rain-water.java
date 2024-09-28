@@ -6,10 +6,15 @@ class Solution {
         int rmax = height[right];
         int Totalwtr = 0;
         while(left < right){
-            lmax = Math.max(lmax,height[left]);
-            rmax = Math.max(rmax,height[right]);
-            Totalwtr += (lmax <= rmax) ? (lmax - height[left++]) : (rmax - height[right--]);
+            if(lmax <= rmax){
+                Totalwtr += lmax - height[left++];
+                lmax = Math.max(height[left], lmax);
+            }else{
+                Totalwtr += rmax - height[right--];
+                rmax = Math.max(height[right], rmax);
+            }
         }
+        
         return Totalwtr;
     }
 }
