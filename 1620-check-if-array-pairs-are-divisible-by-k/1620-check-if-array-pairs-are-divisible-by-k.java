@@ -5,7 +5,6 @@ class Solution {
             int rem = num % k;
             if(rem < 0){
                 rem = rem + k;
-
             }
             freq[rem]++;
         }
