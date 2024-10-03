@@ -6,7 +6,7 @@ class Solution {
             sum = (sum + num) % p; 
         }
         int target = sum % p;
-        if(target == 0) return 0;
+        if(sum == 0) return 0;
         HashMap<Integer, Integer> map = new HashMap<>();
         map.put(0,-1);
         int minlen = l;
