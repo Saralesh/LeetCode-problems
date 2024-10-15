@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/Saralesh/LeetCode-problems/tree/master/0214-shortest-palindrome) |
 | [1250-longest-common-subsequence](https://github.com/Saralesh/LeetCode-problems/tree/master/1250-longest-common-subsequence) |
 | [2470-removing-stars-from-a-string](https://github.com/Saralesh/LeetCode-problems/tree/master/2470-removing-stars-from-a-string) |
+| [3195-separate-black-and-white-balls](https://github.com/Saralesh/LeetCode-problems/tree/master/3195-separate-black-and-white-balls) |
 ## Backtracking
 |  |
 | ------- |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Saralesh/LeetCode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Saralesh/LeetCode-problems/tree/master/0042-trapping-rain-water) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Saralesh/LeetCode-problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [3195-separate-black-and-white-balls](https://github.com/Saralesh/LeetCode-problems/tree/master/3195-separate-black-and-white-balls) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Saralesh/LeetCode-problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Saralesh/LeetCode-problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [3195-separate-black-and-white-balls](https://github.com/Saralesh/LeetCode-problems/tree/master/3195-separate-black-and-white-balls) |
 ## Sliding Window
 |  |
 | ------- |
