@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Saralesh/LeetCode-problems/tree/master/0115-distinct-subsequences) |
 | [0214-shortest-palindrome](https://github.com/Saralesh/LeetCode-problems/tree/master/0214-shortest-palindrome) |
 | [1250-longest-common-subsequence](https://github.com/Saralesh/LeetCode-problems/tree/master/1250-longest-common-subsequence) |
+| [1304-longest-happy-string](https://github.com/Saralesh/LeetCode-problems/tree/master/1304-longest-happy-string) |
 | [2470-removing-stars-from-a-string](https://github.com/Saralesh/LeetCode-problems/tree/master/2470-removing-stars-from-a-string) |
 | [3195-separate-black-and-white-balls](https://github.com/Saralesh/LeetCode-problems/tree/master/3195-separate-black-and-white-balls) |
 ## Backtracking
@@ -187,12 +188,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Saralesh/LeetCode-problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [1304-longest-happy-string](https://github.com/Saralesh/LeetCode-problems/tree/master/1304-longest-happy-string) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Saralesh/LeetCode-problems/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Saralesh/LeetCode-problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Greedy
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Saralesh/LeetCode-problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [1304-longest-happy-string](https://github.com/Saralesh/LeetCode-problems/tree/master/1304-longest-happy-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Saralesh/LeetCode-problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [3195-separate-black-and-white-balls](https://github.com/Saralesh/LeetCode-problems/tree/master/3195-separate-black-and-white-balls) |
 ## Sliding Window
