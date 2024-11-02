@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Saralesh/LeetCode-problems/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/Saralesh/LeetCode-problems/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Saralesh/LeetCode-problems/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/Saralesh/LeetCode-problems/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/Saralesh/LeetCode-problems/tree/master/0051-n-queens) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Saralesh/LeetCode-problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/Saralesh/LeetCode-problems/tree/master/0198-house-robber) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Saralesh/LeetCode-problems/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/Saralesh/LeetCode-problems/tree/master/0048-rotate-image) |
 | [0200-number-of-islands](https://github.com/Saralesh/LeetCode-problems/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Saralesh/LeetCode-problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1036-rotting-oranges](https://github.com/Saralesh/LeetCode-problems/tree/master/1036-rotting-oranges) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Saralesh/LeetCode-problems/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Saralesh/LeetCode-problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Saralesh/LeetCode-problems/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/Saralesh/LeetCode-problems/tree/master/0048-rotate-image) |
 | [0371-sum-of-two-integers](https://github.com/Saralesh/LeetCode-problems/tree/master/0371-sum-of-two-integers) |
 | [0670-maximum-swap](https://github.com/Saralesh/LeetCode-problems/tree/master/0670-maximum-swap) |
 ## Recursion
