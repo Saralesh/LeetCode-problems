@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Saralesh/LeetCode-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0115-distinct-subsequences](https://github.com/Saralesh/LeetCode-problems/tree/master/0115-distinct-subsequences) |
 | [0214-shortest-palindrome](https://github.com/Saralesh/LeetCode-problems/tree/master/0214-shortest-palindrome) |
+| [0812-rotate-string](https://github.com/Saralesh/LeetCode-problems/tree/master/0812-rotate-string) |
 | [1250-longest-common-subsequence](https://github.com/Saralesh/LeetCode-problems/tree/master/1250-longest-common-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Saralesh/LeetCode-problems/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/Saralesh/LeetCode-problems/tree/master/1304-longest-happy-string) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Saralesh/LeetCode-problems/tree/master/0214-shortest-palindrome) |
+| [0812-rotate-string](https://github.com/Saralesh/LeetCode-problems/tree/master/0812-rotate-string) |
 ## Hash Function
 |  |
 | ------- |
