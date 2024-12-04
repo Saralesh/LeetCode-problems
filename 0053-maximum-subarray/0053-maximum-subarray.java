@@ -7,7 +7,7 @@ class Solution {
             maxi = sum > maxi ? sum : maxi;
             sum = sum < 0 ? 0 : sum;       
         }
-        System.gc();
+       
         return maxi;
     }
 }
