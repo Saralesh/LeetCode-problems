@@ -11,6 +11,7 @@ class Solution {
             suffix *= nums[n - i - 1];            
             maxi = Math.max(maxi,Math.max(prefix,suffix));
         }
+        System.gc();
         return maxi;
     }
 }
