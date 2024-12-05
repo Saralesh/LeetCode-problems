@@ -5,10 +5,10 @@ class Solution {
         int suffix = 1;
         int n = nums.length;
         for(int i = 0;i < n;i++){
-            if(prefix == 0) prefix = 1;
-            if(suffix == 0) suffix = 1;
+            prefix = prefix == 0 ? 1 : prefix; 
+            suffix = suffix == 0 ? 1 : suffix;
             prefix *= nums[i];
-            suffix *= nums[n - i - 1];
+            suffix *= nums[n - i - 1];            
             maxi = Math.max(maxi,Math.max(prefix,suffix));
         }
         return maxi;
