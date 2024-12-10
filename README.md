@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Saralesh/LeetCode-problems/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Saralesh/LeetCode-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/Saralesh/LeetCode-problems/tree/master/0037-sudoku-solver) |
+| [0242-valid-anagram](https://github.com/Saralesh/LeetCode-problems/tree/master/0242-valid-anagram) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Saralesh/LeetCode-problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1256-rank-transform-of-an-array](https://github.com/Saralesh/LeetCode-problems/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Saralesh/LeetCode-problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Saralesh/LeetCode-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0115-distinct-subsequences](https://github.com/Saralesh/LeetCode-problems/tree/master/0115-distinct-subsequences) |
 | [0214-shortest-palindrome](https://github.com/Saralesh/LeetCode-problems/tree/master/0214-shortest-palindrome) |
+| [0242-valid-anagram](https://github.com/Saralesh/LeetCode-problems/tree/master/0242-valid-anagram) |
 | [0812-rotate-string](https://github.com/Saralesh/LeetCode-problems/tree/master/0812-rotate-string) |
 | [1250-longest-common-subsequence](https://github.com/Saralesh/LeetCode-problems/tree/master/1250-longest-common-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Saralesh/LeetCode-problems/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Saralesh/LeetCode-problems/tree/master/0242-valid-anagram) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Saralesh/LeetCode-problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1256-rank-transform-of-an-array](https://github.com/Saralesh/LeetCode-problems/tree/master/1256-rank-transform-of-an-array) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Saralesh/LeetCode-problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
