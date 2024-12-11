@@ -1,6 +1,6 @@
 class Solution {
     public int myAtoi(String s) {
-      if(s == null) return 0;
+      
       s = s.trim();
       if(s.length() == 0) return 0;
       int sign = +1;
