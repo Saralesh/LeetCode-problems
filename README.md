@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Saralesh/LeetCode-problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1002-maximum-width-ramp](https://github.com/Saralesh/LeetCode-problems/tree/master/1002-maximum-width-ramp) |
 | [1036-rotting-oranges](https://github.com/Saralesh/LeetCode-problems/tree/master/1036-rotting-oranges) |
+| [1063-best-sightseeing-pair](https://github.com/Saralesh/LeetCode-problems/tree/master/1063-best-sightseeing-pair) |
 | [1256-rank-transform-of-an-array](https://github.com/Saralesh/LeetCode-problems/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Saralesh/LeetCode-problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/Saralesh/LeetCode-problems/tree/master/1694-make-sum-divisible-by-p) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Saralesh/LeetCode-problems/tree/master/0198-house-robber) |
 | [0312-burst-balloons](https://github.com/Saralesh/LeetCode-problems/tree/master/0312-burst-balloons) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Saralesh/LeetCode-problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [1063-best-sightseeing-pair](https://github.com/Saralesh/LeetCode-problems/tree/master/1063-best-sightseeing-pair) |
 | [1250-longest-common-subsequence](https://github.com/Saralesh/LeetCode-problems/tree/master/1250-longest-common-subsequence) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Saralesh/LeetCode-problems/tree/master/2586-longest-square-streak-in-an-array) |
 ## Stack
