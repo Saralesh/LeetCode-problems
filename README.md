@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Saralesh/LeetCode-problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/Saralesh/LeetCode-problems/tree/master/1694-make-sum-divisible-by-p) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Saralesh/LeetCode-problems/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2374-steps-to-make-array-non-decreasing](https://github.com/Saralesh/LeetCode-problems/tree/master/2374-steps-to-make-array-non-decreasing) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Saralesh/LeetCode-problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Saralesh/LeetCode-problems/tree/master/2586-longest-square-streak-in-an-array) |
 ## Binary Search
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Saralesh/LeetCode-problems/tree/master/0042-trapping-rain-water) |
 | [1002-maximum-width-ramp](https://github.com/Saralesh/LeetCode-problems/tree/master/1002-maximum-width-ramp) |
+| [2374-steps-to-make-array-non-decreasing](https://github.com/Saralesh/LeetCode-problems/tree/master/2374-steps-to-make-array-non-decreasing) |
 | [2470-removing-stars-from-a-string](https://github.com/Saralesh/LeetCode-problems/tree/master/2470-removing-stars-from-a-string) |
 ## Simulation
 |  |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Saralesh/LeetCode-problems/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Saralesh/LeetCode-problems/tree/master/0021-merge-two-sorted-lists) |
+| [2374-steps-to-make-array-non-decreasing](https://github.com/Saralesh/LeetCode-problems/tree/master/2374-steps-to-make-array-non-decreasing) |
 ## Math
 |  |
 | ------- |
@@ -207,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Saralesh/LeetCode-problems/tree/master/0042-trapping-rain-water) |
 | [1002-maximum-width-ramp](https://github.com/Saralesh/LeetCode-problems/tree/master/1002-maximum-width-ramp) |
+| [2374-steps-to-make-array-non-decreasing](https://github.com/Saralesh/LeetCode-problems/tree/master/2374-steps-to-make-array-non-decreasing) |
 ## Counting
 |  |
 | ------- |
