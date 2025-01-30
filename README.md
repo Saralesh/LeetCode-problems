@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Saralesh/LeetCode-problems/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/Saralesh/LeetCode-problems/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Saralesh/LeetCode-problems/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/Saralesh/LeetCode-problems/tree/master/0066-plus-one) |
 | [0152-maximum-product-subarray](https://github.com/Saralesh/LeetCode-problems/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Saralesh/LeetCode-problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/Saralesh/LeetCode-problems/tree/master/0198-house-robber) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Saralesh/LeetCode-problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Saralesh/LeetCode-problems/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Saralesh/LeetCode-problems/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/Saralesh/LeetCode-problems/tree/master/0066-plus-one) |
 | [0371-sum-of-two-integers](https://github.com/Saralesh/LeetCode-problems/tree/master/0371-sum-of-two-integers) |
 | [0670-maximum-swap](https://github.com/Saralesh/LeetCode-problems/tree/master/0670-maximum-swap) |
 | [1585-the-kth-factor-of-n](https://github.com/Saralesh/LeetCode-problems/tree/master/1585-the-kth-factor-of-n) |
