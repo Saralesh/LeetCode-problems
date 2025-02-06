@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/Saralesh/LeetCode-problems/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Saralesh/LeetCode-problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/Saralesh/LeetCode-problems/tree/master/1694-make-sum-divisible-by-p) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/Saralesh/LeetCode-problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Saralesh/LeetCode-problems/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2374-steps-to-make-array-non-decreasing](https://github.com/Saralesh/LeetCode-problems/tree/master/2374-steps-to-make-array-non-decreasing) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Saralesh/LeetCode-problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
