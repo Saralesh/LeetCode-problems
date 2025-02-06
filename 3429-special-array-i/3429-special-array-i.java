@@ -5,6 +5,7 @@ class Solution {
         for(int i = 0;i < l - 1;i++){
             if((nums[i] % 2) == (nums[i+1] % 2))   return false; 
         }
+        System.gc();
         return true;
     }
 }
