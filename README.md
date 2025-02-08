@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Saralesh/LeetCode-problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Saralesh/LeetCode-problems/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Saralesh/LeetCode-problems/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/Saralesh/LeetCode-problems/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2374-steps-to-make-array-non-decreasing](https://github.com/Saralesh/LeetCode-problems/tree/master/2374-steps-to-make-array-non-decreasing) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Saralesh/LeetCode-problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Saralesh/LeetCode-problems/tree/master/2586-longest-square-streak-in-an-array) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Saralesh/LeetCode-problems/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Saralesh/LeetCode-problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1036-rotting-oranges](https://github.com/Saralesh/LeetCode-problems/tree/master/1036-rotting-oranges) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/Saralesh/LeetCode-problems/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2132-convert-1d-array-into-2d-array](https://github.com/Saralesh/LeetCode-problems/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2470-removing-stars-from-a-string](https://github.com/Saralesh/LeetCode-problems/tree/master/2470-removing-stars-from-a-string) |
 ## Linked List
 |  |
