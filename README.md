@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Saralesh/LeetCode-problems/tree/master/0066-plus-one) |
 | [0152-maximum-product-subarray](https://github.com/Saralesh/LeetCode-problems/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Saralesh/LeetCode-problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/Saralesh/LeetCode-problems/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Saralesh/LeetCode-problems/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Saralesh/LeetCode-problems/tree/master/0200-number-of-islands) |
 | [0312-burst-balloons](https://github.com/Saralesh/LeetCode-problems/tree/master/0312-burst-balloons) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Saralesh/LeetCode-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/Saralesh/LeetCode-problems/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Saralesh/LeetCode-problems/tree/master/0041-first-missing-positive) |
+| [0169-majority-element](https://github.com/Saralesh/LeetCode-problems/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Saralesh/LeetCode-problems/tree/master/0242-valid-anagram) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Saralesh/LeetCode-problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1256-rank-transform-of-an-array](https://github.com/Saralesh/LeetCode-problems/tree/master/1256-rank-transform-of-an-array) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Saralesh/LeetCode-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Saralesh/LeetCode-problems/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Saralesh/LeetCode-problems/tree/master/0169-majority-element) |
 ## Tree
 |  |
 | ------- |
@@ -237,11 +240,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Saralesh/LeetCode-problems/tree/master/0169-majority-element) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Saralesh/LeetCode-problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Saralesh/LeetCode-problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Saralesh/LeetCode-problems/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Saralesh/LeetCode-problems/tree/master/0242-valid-anagram) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Saralesh/LeetCode-problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1256-rank-transform-of-an-array](https://github.com/Saralesh/LeetCode-problems/tree/master/1256-rank-transform-of-an-array) |
