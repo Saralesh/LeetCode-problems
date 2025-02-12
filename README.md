@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Saralesh/LeetCode-problems/tree/master/0066-plus-one) |
 | [0371-sum-of-two-integers](https://github.com/Saralesh/LeetCode-problems/tree/master/0371-sum-of-two-integers) |
 | [0670-maximum-swap](https://github.com/Saralesh/LeetCode-problems/tree/master/0670-maximum-swap) |
+| [0728-self-dividing-numbers](https://github.com/Saralesh/LeetCode-problems/tree/master/0728-self-dividing-numbers) |
 | [1585-the-kth-factor-of-n](https://github.com/Saralesh/LeetCode-problems/tree/master/1585-the-kth-factor-of-n) |
 ## Recursion
 |  |
