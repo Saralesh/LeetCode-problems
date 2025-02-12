@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Saralesh/LeetCode-problems/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Saralesh/LeetCode-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Saralesh/LeetCode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Saralesh/LeetCode-problems/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Saralesh/LeetCode-problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Saralesh/LeetCode-problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0037-sudoku-solver](https://github.com/Saralesh/LeetCode-problems/tree/master/0037-sudoku-solver) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Saralesh/LeetCode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Saralesh/LeetCode-problems/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Saralesh/LeetCode-problems/tree/master/0042-trapping-rain-water) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Saralesh/LeetCode-problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Saralesh/LeetCode-problems/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
