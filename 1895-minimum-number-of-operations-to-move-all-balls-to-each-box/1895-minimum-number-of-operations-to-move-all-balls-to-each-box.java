@@ -1,13 +1,19 @@
 class Solution {
     public int[] minOperations(String boxes) {
-        int l = boxes.length();
-        int[] res = new int[l];
-        for(int i = 0;i < l;i++){
-            int result = 0;
-            for(int j = 0;j < l;j++){
-                result += (boxes.charAt(j) - '0') * Math.abs(i - j);
-            }
-            res[i] = result;
+        int n = boxes.length();
+        int[] res = new int[n];
+        int count = 0, moves = 0;
+        for (int i = 0; i < n; i++) {
+            res[i] = moves;
+            count += (boxes.charAt(i) - '0');
+            moves += count;
+        }
+        count = 0;
+        moves = 0;
+        for (int i = n - 1; i >= 0; i--) {
+            res[i] += moves;
+            count += (boxes.charAt(i) - '0');
+            moves += count;
         }
         return res;
     }
