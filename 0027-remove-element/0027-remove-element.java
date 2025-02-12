@@ -3,8 +3,7 @@ class Solution {
         int k = 0; 
         for (int i : nums) {
             if (i != val) {
-                nums[k] = i;
-                k++;
+                nums[k++] = i;
             }
         }
         return k;
