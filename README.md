@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Saralesh/LeetCode-problems/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Saralesh/LeetCode-problems/tree/master/0021-merge-two-sorted-lists) |
+| [0203-remove-linked-list-elements](https://github.com/Saralesh/LeetCode-problems/tree/master/0203-remove-linked-list-elements) |
 | [2374-steps-to-make-array-non-decreasing](https://github.com/Saralesh/LeetCode-problems/tree/master/2374-steps-to-make-array-non-decreasing) |
 ## Math
 |  |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Saralesh/LeetCode-problems/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Saralesh/LeetCode-problems/tree/master/0021-merge-two-sorted-lists) |
+| [0203-remove-linked-list-elements](https://github.com/Saralesh/LeetCode-problems/tree/master/0203-remove-linked-list-elements) |
 ## Two Pointers
 |  |
 | ------- |
