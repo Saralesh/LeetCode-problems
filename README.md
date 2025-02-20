@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/Saralesh/LeetCode-problems/tree/master/0670-maximum-swap) |
 | [0728-self-dividing-numbers](https://github.com/Saralesh/LeetCode-problems/tree/master/0728-self-dividing-numbers) |
 | [1585-the-kth-factor-of-n](https://github.com/Saralesh/LeetCode-problems/tree/master/1585-the-kth-factor-of-n) |
+| [2383-add-two-integers](https://github.com/Saralesh/LeetCode-problems/tree/master/2383-add-two-integers) |
 ## Recursion
 |  |
 | ------- |
