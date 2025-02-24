@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/Saralesh/LeetCode-problems/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/Saralesh/LeetCode-problems/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Saralesh/LeetCode-problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0410-split-array-largest-sum](https://github.com/Saralesh/LeetCode-problems/tree/master/0410-split-array-largest-sum) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Saralesh/LeetCode-problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1002-maximum-width-ramp](https://github.com/Saralesh/LeetCode-problems/tree/master/1002-maximum-width-ramp) |
 | [1036-rotting-oranges](https://github.com/Saralesh/LeetCode-problems/tree/master/1036-rotting-oranges) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Saralesh/LeetCode-problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Saralesh/LeetCode-problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Saralesh/LeetCode-problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0410-split-array-largest-sum](https://github.com/Saralesh/LeetCode-problems/tree/master/0410-split-array-largest-sum) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Saralesh/LeetCode-problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Saralesh/LeetCode-problems/tree/master/2586-longest-square-streak-in-an-array) |
 ## Depth-First Search
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/Saralesh/LeetCode-problems/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/Saralesh/LeetCode-problems/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Saralesh/LeetCode-problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0410-split-array-largest-sum](https://github.com/Saralesh/LeetCode-problems/tree/master/0410-split-array-largest-sum) |
 | [1063-best-sightseeing-pair](https://github.com/Saralesh/LeetCode-problems/tree/master/1063-best-sightseeing-pair) |
 | [1250-longest-common-subsequence](https://github.com/Saralesh/LeetCode-problems/tree/master/1250-longest-common-subsequence) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Saralesh/LeetCode-problems/tree/master/2586-longest-square-streak-in-an-array) |
@@ -266,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/Saralesh/LeetCode-problems/tree/master/0410-split-array-largest-sum) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Saralesh/LeetCode-problems/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1694-make-sum-divisible-by-p](https://github.com/Saralesh/LeetCode-problems/tree/master/1694-make-sum-divisible-by-p) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Saralesh/LeetCode-problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -280,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/Saralesh/LeetCode-problems/tree/master/0410-split-array-largest-sum) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Saralesh/LeetCode-problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/Saralesh/LeetCode-problems/tree/master/0670-maximum-swap) |
 | [1304-longest-happy-string](https://github.com/Saralesh/LeetCode-problems/tree/master/1304-longest-happy-string) |
