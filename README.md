@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Saralesh/LeetCode-problems/tree/master/0344-reverse-string) |
 | [0812-rotate-string](https://github.com/Saralesh/LeetCode-problems/tree/master/0812-rotate-string) |
 | [1250-longest-common-subsequence](https://github.com/Saralesh/LeetCode-problems/tree/master/1250-longest-common-subsequence) |
+| [1260-day-of-the-year](https://github.com/Saralesh/LeetCode-problems/tree/master/1260-day-of-the-year) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Saralesh/LeetCode-problems/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/Saralesh/LeetCode-problems/tree/master/1304-longest-happy-string) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Saralesh/LeetCode-problems/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/Saralesh/LeetCode-problems/tree/master/0371-sum-of-two-integers) |
 | [0670-maximum-swap](https://github.com/Saralesh/LeetCode-problems/tree/master/0670-maximum-swap) |
 | [0728-self-dividing-numbers](https://github.com/Saralesh/LeetCode-problems/tree/master/0728-self-dividing-numbers) |
+| [1260-day-of-the-year](https://github.com/Saralesh/LeetCode-problems/tree/master/1260-day-of-the-year) |
 | [1585-the-kth-factor-of-n](https://github.com/Saralesh/LeetCode-problems/tree/master/1585-the-kth-factor-of-n) |
 | [2383-add-two-integers](https://github.com/Saralesh/LeetCode-problems/tree/master/2383-add-two-integers) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/Saralesh/LeetCode-problems/tree/master/2423-minimum-deletions-to-make-array-divisible) |
