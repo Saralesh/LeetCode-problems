@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Saralesh/LeetCode-problems/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Saralesh/LeetCode-problems/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Saralesh/LeetCode-problems/tree/master/0066-plus-one) |
+| [0130-surrounded-regions](https://github.com/Saralesh/LeetCode-problems/tree/master/0130-surrounded-regions) |
 | [0152-maximum-product-subarray](https://github.com/Saralesh/LeetCode-problems/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Saralesh/LeetCode-problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Saralesh/LeetCode-problems/tree/master/0169-majority-element) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Saralesh/LeetCode-problems/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Saralesh/LeetCode-problems/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Saralesh/LeetCode-problems/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Saralesh/LeetCode-problems/tree/master/0226-invert-binary-tree) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Saralesh/LeetCode-problems/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Saralesh/LeetCode-problems/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Saralesh/LeetCode-problems/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Saralesh/LeetCode-problems/tree/master/0226-invert-binary-tree) |
@@ -80,12 +83,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Saralesh/LeetCode-problems/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Saralesh/LeetCode-problems/tree/master/0200-number-of-islands) |
 ## Matrix
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Saralesh/LeetCode-problems/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Saralesh/LeetCode-problems/tree/master/0048-rotate-image) |
+| [0130-surrounded-regions](https://github.com/Saralesh/LeetCode-problems/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Saralesh/LeetCode-problems/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Saralesh/LeetCode-problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1036-rotting-oranges](https://github.com/Saralesh/LeetCode-problems/tree/master/1036-rotting-oranges) |
