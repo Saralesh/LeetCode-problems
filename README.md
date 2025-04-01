@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Saralesh/LeetCode-problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Saralesh/LeetCode-problems/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Saralesh/LeetCode-problems/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/Saralesh/LeetCode-problems/tree/master/0115-distinct-subsequences) |
 | [0152-maximum-product-subarray](https://github.com/Saralesh/LeetCode-problems/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Saralesh/LeetCode-problems/tree/master/0198-house-robber) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Saralesh/LeetCode-problems/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Saralesh/LeetCode-problems/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Saralesh/LeetCode-problems/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/Saralesh/LeetCode-problems/tree/master/0070-climbing-stairs) |
 | [0371-sum-of-two-integers](https://github.com/Saralesh/LeetCode-problems/tree/master/0371-sum-of-two-integers) |
 | [0670-maximum-swap](https://github.com/Saralesh/LeetCode-problems/tree/master/0670-maximum-swap) |
 | [0728-self-dividing-numbers](https://github.com/Saralesh/LeetCode-problems/tree/master/0728-self-dividing-numbers) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Saralesh/LeetCode-problems/tree/master/0070-climbing-stairs) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Saralesh/LeetCode-problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Monotonic Stack
 |  |
