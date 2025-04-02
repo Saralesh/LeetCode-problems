@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/Saralesh/LeetCode-problems/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/Saralesh/LeetCode-problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Saralesh/LeetCode-problems/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/Saralesh/LeetCode-problems/tree/master/0412-fizz-buzz) |
 | [0812-rotate-string](https://github.com/Saralesh/LeetCode-problems/tree/master/0812-rotate-string) |
 | [1250-longest-common-subsequence](https://github.com/Saralesh/LeetCode-problems/tree/master/1250-longest-common-subsequence) |
 | [1260-day-of-the-year](https://github.com/Saralesh/LeetCode-problems/tree/master/1260-day-of-the-year) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Saralesh/LeetCode-problems/tree/master/0412-fizz-buzz) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Saralesh/LeetCode-problems/tree/master/1505-create-target-array-in-the-given-order) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Saralesh/LeetCode-problems/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2470-removing-stars-from-a-string](https://github.com/Saralesh/LeetCode-problems/tree/master/2470-removing-stars-from-a-string) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Saralesh/LeetCode-problems/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Saralesh/LeetCode-problems/tree/master/0070-climbing-stairs) |
 | [0371-sum-of-two-integers](https://github.com/Saralesh/LeetCode-problems/tree/master/0371-sum-of-two-integers) |
+| [0412-fizz-buzz](https://github.com/Saralesh/LeetCode-problems/tree/master/0412-fizz-buzz) |
 | [0670-maximum-swap](https://github.com/Saralesh/LeetCode-problems/tree/master/0670-maximum-swap) |
 | [0728-self-dividing-numbers](https://github.com/Saralesh/LeetCode-problems/tree/master/0728-self-dividing-numbers) |
 | [1260-day-of-the-year](https://github.com/Saralesh/LeetCode-problems/tree/master/1260-day-of-the-year) |
