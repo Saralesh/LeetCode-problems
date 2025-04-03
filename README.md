@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Saralesh/LeetCode-problems/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Saralesh/LeetCode-problems/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/Saralesh/LeetCode-problems/tree/master/0073-set-matrix-zeroes) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Saralesh/LeetCode-problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Saralesh/LeetCode-problems/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Saralesh/LeetCode-problems/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/Saralesh/LeetCode-problems/tree/master/0560-subarray-sum-equals-k) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Saralesh/LeetCode-problems/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Saralesh/LeetCode-problems/tree/master/0021-merge-two-sorted-lists) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Saralesh/LeetCode-problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Saralesh/LeetCode-problems/tree/master/0203-remove-linked-list-elements) |
 | [0908-middle-of-the-linked-list](https://github.com/Saralesh/LeetCode-problems/tree/master/0908-middle-of-the-linked-list) |
 | [2374-steps-to-make-array-non-decreasing](https://github.com/Saralesh/LeetCode-problems/tree/master/2374-steps-to-make-array-non-decreasing) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Saralesh/LeetCode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Saralesh/LeetCode-problems/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Saralesh/LeetCode-problems/tree/master/0042-trapping-rain-water) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Saralesh/LeetCode-problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/Saralesh/LeetCode-problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Saralesh/LeetCode-problems/tree/master/0344-reverse-string) |
 | [0908-middle-of-the-linked-list](https://github.com/Saralesh/LeetCode-problems/tree/master/0908-middle-of-the-linked-list) |
