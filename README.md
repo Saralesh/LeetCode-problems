@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Saralesh/LeetCode-problems/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/Saralesh/LeetCode-problems/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Saralesh/LeetCode-problems/tree/master/0073-set-matrix-zeroes) |
+| [0088-merge-sorted-array](https://github.com/Saralesh/LeetCode-problems/tree/master/0088-merge-sorted-array) |
 | [0130-surrounded-regions](https://github.com/Saralesh/LeetCode-problems/tree/master/0130-surrounded-regions) |
 | [0152-maximum-product-subarray](https://github.com/Saralesh/LeetCode-problems/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Saralesh/LeetCode-problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Saralesh/LeetCode-problems/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Saralesh/LeetCode-problems/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Saralesh/LeetCode-problems/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/Saralesh/LeetCode-problems/tree/master/0088-merge-sorted-array) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Saralesh/LeetCode-problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/Saralesh/LeetCode-problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Saralesh/LeetCode-problems/tree/master/0344-reverse-string) |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Saralesh/LeetCode-problems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Saralesh/LeetCode-problems/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Saralesh/LeetCode-problems/tree/master/0242-valid-anagram) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Saralesh/LeetCode-problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
