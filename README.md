@@ -372,4 +372,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Saralesh/LeetCode-problems/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/Saralesh/LeetCode-problems/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
