@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Saralesh/LeetCode-problems/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Saralesh/LeetCode-problems/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Saralesh/LeetCode-problems/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Saralesh/LeetCode-problems/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Saralesh/LeetCode-problems/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Saralesh/LeetCode-problems/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/Saralesh/LeetCode-problems/tree/master/0063-unique-paths-ii) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Saralesh/LeetCode-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/Saralesh/LeetCode-problems/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Saralesh/LeetCode-problems/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/Saralesh/LeetCode-problems/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Saralesh/LeetCode-problems/tree/master/0073-set-matrix-zeroes) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Saralesh/LeetCode-problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Saralesh/LeetCode-problems/tree/master/0169-majority-element) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Saralesh/LeetCode-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Saralesh/LeetCode-problems/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Saralesh/LeetCode-problems/tree/master/0022-generate-parentheses) |
+| [0049-group-anagrams](https://github.com/Saralesh/LeetCode-problems/tree/master/0049-group-anagrams) |
 | [0115-distinct-subsequences](https://github.com/Saralesh/LeetCode-problems/tree/master/0115-distinct-subsequences) |
 | [0214-shortest-palindrome](https://github.com/Saralesh/LeetCode-problems/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/Saralesh/LeetCode-problems/tree/master/0242-valid-anagram) |
@@ -315,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Saralesh/LeetCode-problems/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Saralesh/LeetCode-problems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Saralesh/LeetCode-problems/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Saralesh/LeetCode-problems/tree/master/0242-valid-anagram) |
