@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Saralesh/LeetCode-problems/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Saralesh/LeetCode-problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/Saralesh/LeetCode-problems/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Saralesh/LeetCode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Saralesh/LeetCode-problems/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Saralesh/LeetCode-problems/tree/master/0031-next-permutation) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Saralesh/LeetCode-problems/tree/master/0008-string-to-integer-atoi) |
+| [0014-longest-common-prefix](https://github.com/Saralesh/LeetCode-problems/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Saralesh/LeetCode-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Saralesh/LeetCode-problems/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Saralesh/LeetCode-problems/tree/master/0022-generate-parentheses) |
@@ -382,4 +384,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0595-big-countries](https://github.com/Saralesh/LeetCode-problems/tree/master/0595-big-countries) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Saralesh/LeetCode-problems/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
