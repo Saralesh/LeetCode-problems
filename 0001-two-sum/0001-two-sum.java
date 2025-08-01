@@ -12,7 +12,7 @@ class Solution {
                 return new int[] {m.get(complement), i};
             }
 
-            m.put(nums[i], i); // Insert after checking (ensures distinct indices)
+            m.put(nums[i], i); 
         }
 
         return null;        
