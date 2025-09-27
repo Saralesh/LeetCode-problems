@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Saralesh/LeetCode-problems/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Saralesh/LeetCode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Saralesh/LeetCode-problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0830-largest-triangle-area](https://github.com/Saralesh/LeetCode-problems/tree/master/0830-largest-triangle-area) |
 | [1002-maximum-width-ramp](https://github.com/Saralesh/LeetCode-problems/tree/master/1002-maximum-width-ramp) |
 | [1036-rotting-oranges](https://github.com/Saralesh/LeetCode-problems/tree/master/1036-rotting-oranges) |
 | [1063-best-sightseeing-pair](https://github.com/Saralesh/LeetCode-problems/tree/master/1063-best-sightseeing-pair) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Saralesh/LeetCode-problems/tree/master/0412-fizz-buzz) |
 | [0670-maximum-swap](https://github.com/Saralesh/LeetCode-problems/tree/master/0670-maximum-swap) |
 | [0728-self-dividing-numbers](https://github.com/Saralesh/LeetCode-problems/tree/master/0728-self-dividing-numbers) |
+| [0830-largest-triangle-area](https://github.com/Saralesh/LeetCode-problems/tree/master/0830-largest-triangle-area) |
 | [1260-day-of-the-year](https://github.com/Saralesh/LeetCode-problems/tree/master/1260-day-of-the-year) |
 | [1585-the-kth-factor-of-n](https://github.com/Saralesh/LeetCode-problems/tree/master/1585-the-kth-factor-of-n) |
 | [2383-add-two-integers](https://github.com/Saralesh/LeetCode-problems/tree/master/2383-add-two-integers) |
@@ -394,4 +396,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Saralesh/LeetCode-problems/tree/master/0014-longest-common-prefix) |
+## Geometry
+|  |
+| ------- |
+| [0830-largest-triangle-area](https://github.com/Saralesh/LeetCode-problems/tree/master/0830-largest-triangle-area) |
 <!---LeetCode Topics End-->
