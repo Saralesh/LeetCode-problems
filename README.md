@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/Saralesh/LeetCode-problems/tree/master/0412-fizz-buzz) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Saralesh/LeetCode-problems/tree/master/1505-create-target-array-in-the-given-order) |
+| [1642-water-bottles](https://github.com/Saralesh/LeetCode-problems/tree/master/1642-water-bottles) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Saralesh/LeetCode-problems/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2470-removing-stars-from-a-string](https://github.com/Saralesh/LeetCode-problems/tree/master/2470-removing-stars-from-a-string) |
 ## Linked List
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/Saralesh/LeetCode-problems/tree/master/1018-largest-perimeter-triangle) |
 | [1260-day-of-the-year](https://github.com/Saralesh/LeetCode-problems/tree/master/1260-day-of-the-year) |
 | [1585-the-kth-factor-of-n](https://github.com/Saralesh/LeetCode-problems/tree/master/1585-the-kth-factor-of-n) |
+| [1642-water-bottles](https://github.com/Saralesh/LeetCode-problems/tree/master/1642-water-bottles) |
 | [2383-add-two-integers](https://github.com/Saralesh/LeetCode-problems/tree/master/2383-add-two-integers) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/Saralesh/LeetCode-problems/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 ## Recursion
