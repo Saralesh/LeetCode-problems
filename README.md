@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Saralesh/LeetCode-problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1904-second-largest-digit-in-a-string](https://github.com/Saralesh/LeetCode-problems/tree/master/1904-second-largest-digit-in-a-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Saralesh/LeetCode-problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2337-remove-digit-from-number-to-maximize-result](https://github.com/Saralesh/LeetCode-problems/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2470-removing-stars-from-a-string](https://github.com/Saralesh/LeetCode-problems/tree/master/2470-removing-stars-from-a-string) |
 | [2580-circular-sentence](https://github.com/Saralesh/LeetCode-problems/tree/master/2580-circular-sentence) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Saralesh/LeetCode-problems/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/Saralesh/LeetCode-problems/tree/master/0670-maximum-swap) |
 | [1018-largest-perimeter-triangle](https://github.com/Saralesh/LeetCode-problems/tree/master/1018-largest-perimeter-triangle) |
 | [1304-longest-happy-string](https://github.com/Saralesh/LeetCode-problems/tree/master/1304-longest-happy-string) |
+| [2337-remove-digit-from-number-to-maximize-result](https://github.com/Saralesh/LeetCode-problems/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Saralesh/LeetCode-problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [3195-separate-black-and-white-balls](https://github.com/Saralesh/LeetCode-problems/tree/master/3195-separate-black-and-white-balls) |
 ## Sliding Window
@@ -393,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2337-remove-digit-from-number-to-maximize-result](https://github.com/Saralesh/LeetCode-problems/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Saralesh/LeetCode-problems/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Database
 |  |
